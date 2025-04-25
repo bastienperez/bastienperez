@@ -1,6 +1,6 @@
 <!-- filepath: /Users/bast/Documents/GitHub/bastienperez/README.md -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Bastien+Perez's+Page!;Microsoft+MVP+%7C+Blogger;PowerShell+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=de761d&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Bastien+Perez's+Page!;Microsoft+MVP+%7C+Blogger;Automation+Addict&font=Fira%20Code&center=true&width=440&height=45&color=de761d&vCenter=true&size=22">
 </div>
 
 # 👨‍💻 Bastien Perez
