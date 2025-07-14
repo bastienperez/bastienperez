@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🏆 **Microsoft MVP** - Recognized expert in Microsoft technologies with a passion for knowledge sharing
+- 🏆 **Microsoft MVP in Microsoft 365 and in Identity & Access** - Recognized expert in Microsoft technologies with a passion for knowledge sharing
 - 🔐 **Microsoft Specialist** - Expert in on-premise solutions (Active Directory, ADFS, GPO) and cloud services (Microsoft 365, Microsoft Entra ID, Exchange Online)
 - 🛠️ **Automation Enthusiast** - Creating PowerShell scripts to simplify IT administration tasks
 - 🤖 **No-Code/Low-Code Explorer** - Experimenting with Airtable, Notion, Make.com, n8n, AI solutions and LLMs to create innovative automation workflows
