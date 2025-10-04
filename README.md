@@ -6,7 +6,7 @@
 # 👨‍💻 Bastien Perez
 ### 🌟 Passionate technology engineer, expert in Microsoft solutions and explorer of automation and productivity solutions.
 
-> 💡 **My Philosophy**: Technology should serve us—not the other way around. I automate complex tasks and unlock the potential of systems, going beyond just the Microsoft ecosystem to create truly efficient solutions.
+> 💡 **My Philosophy**: Technology should serve us, not the other way around. I automate complex tasks and unlock the potential of systems, going beyond just the Microsoft ecosystem to create truly efficient solutions.
 
 
 ## 🚀 About Me
