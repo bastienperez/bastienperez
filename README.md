@@ -39,21 +39,21 @@ As a freelance consultant, I offer specialized services in:
 A selection of tools, extensions and platforms I build and maintain:
 
 ### SaaS & Web Apps
-- 🚀 **[NtraBoost](https://ntraboost.com)** — Browser extension for the Microsoft Entra portal with advanced productivity features
-- 🔐 **[SAML Cert Eye](https://samlcert.clidsys.com)** — Extract and analyze X.509 certificates from SAML metadata (Base64 or binary download)
-- 📡 **[SCIM Radar](https://scimradar.clidsys.com)** — SCIM monitoring dashboard to visualize provisioning operations and analyze performance
+- 🚀 **[NtraBoost](https://ntraboost.com)** - Browser extension for the Microsoft Entra portal with advanced productivity features
+- 🔐 **[SAML Cert Eye](https://samlcert.clidsys.com)** - Extract and analyze X.509 certificates from SAML metadata (Base64 or binary download)
+- 📡 **[SCIM Radar](https://scimradar.clidsys.com)** - SCIM monitoring dashboard to visualize provisioning operations and analyze performance
 
 ### Open Source & PowerShell
-- ⚡ **[PS365](https://ps365.dev)** — Open source PowerShell module for Microsoft 365 administration
-- 🛡️ **[RBAC Exchange Manager](https://github.com/bastienperez/exchange-rbac-manager)** — PowerShell GUI to explore Exchange Online RBAC with a hub-and-spoke visualizer
+- ⚡ **[PS365](https://ps365.dev)** - Open source PowerShell module for Microsoft 365 administration
+- 🛡️ **[RBAC Exchange Manager](https://github.com/bastienperez/exchange-rbac-manager)** - PowerShell GUI to explore Exchange Online RBAC with a hub-and-spoke visualizer
 
 ### Browser Extensions
-- 🧩 **[VS Code Insiders Button](https://chromewebstore.google.com/detail/vs-code-insiders-button-o/godpeobaefkgjlmchpechdgpbnhaieel)** — Adds an Insiders button to the VS Code Marketplace
-- 🧹 **[ChatGPT Cleaner](https://chromewebstore.google.com/detail/chatgpt-bulk-delete-archi/fjhjpkmonaejoppdpdlcflfkogoneemf)** — Bulk delete and archive ChatGPT conversations
-- 🧽 **[Claude Cleaner](https://chromewebstore.google.com/detail/claude-cleaner/hinpegpopnilalbfagjjkijlefimgdjn)** — Bulk delete and archive Claude conversations
+- 🧩 **[VS Code Insiders Button](https://chromewebstore.google.com/detail/vs-code-insiders-button-o/godpeobaefkgjlmchpechdgpbnhaieel)** - Adds an Insiders button to the VS Code Marketplace
+- 🧹 **[ChatGPT Cleaner](https://chromewebstore.google.com/detail/chatgpt-bulk-delete-archi/fjhjpkmonaejoppdpdlcflfkogoneemf)** - Bulk delete and archive ChatGPT conversations
+- 🧽 **[Claude Cleaner](https://chromewebstore.google.com/detail/claude-cleaner/hinpegpopnilalbfagjjkijlefimgdjn)** - Bulk delete and archive Claude conversations
 
 ### Communities
-- 🇫🇷 **[Microsoft Normandie User Group](https://l.perezbastien.com/mnug)** — Regional Microsoft tech community on Meetup
+- 🇫🇷 **[Microsoft Normandie User Group](https://l.perezbastien.com/mnug)** - Regional Microsoft tech community on Meetup
 
 ## 🏢 My Company
 
