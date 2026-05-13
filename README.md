@@ -39,7 +39,7 @@ As a freelance consultant, I offer specialized services in:
 A selection of tools, extensions and platforms I build and maintain:
 
 ### SaaS & Web Apps
-- 🚀 **[NtraBoost](https://ntraboost.com)** - Browser extension for the Microsoft Entra portal with advanced productivity features
+- 🚀 **[EntraBoost](https://entraboost.com)** - Browser extension for the Microsoft Entra portal with advanced productivity features
 - 🔐 **[SAML Cert Eye](https://samlcert.clidsys.com)** - Extract and analyze X.509 certificates from SAML metadata (Base64 or binary download)
 - 📡 **[SCIM Radar](https://scimradar.clidsys.com)** - SCIM monitoring dashboard to visualize provisioning operations and analyze performance
 
@@ -70,8 +70,7 @@ I provide comprehensive IT services through [Clidsys](https://clidsys.com), the 
 <p align="center">
     <p align="center">
         🔍 <strong>ITPro-Tips</strong>: <a href="https://itpro-tips.com">Technical blog with in-depth tutorials and best practices for IT professionals since 2018</a><br>
-        👨‍💻 <strong>Personal Website</strong>: <a href="https://perezbastien.com">Portfolio showcasing my projects, services, and professional journey</a><br>
-        🧠 <strong>IT-Pro Learn</strong>: <a href="https://en.itpro-learn.com">Develop your skills and accelerate your IT career</a>
+        👨‍💻 <strong>Personal Website</strong>: <a href="https://perezbastien.com">Portfolio showcasing my projects, services, and professional journey</a>
     </p>
 </p>
 </p>
