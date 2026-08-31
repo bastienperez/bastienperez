@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Bastien+Perez's+Page!;Microsoft+MVP+%7C+Blogger;Automation+Addict&font=Fira%20Code&center=true&width=440&height=45&color=de761d&vCenter=true&size=22">
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bastienperez&label=Profile+views&color=de761d&style=for-the-badge" alt="Profile views"/>
+</p>
+
 # 👨‍💻 Bastien Perez
 ### 🌟 Passionate technology engineer, expert in Microsoft solutions and explorer of automation and productivity solutions.
 
