@@ -48,7 +48,11 @@ A selection of tools, extensions and platforms I build and maintain:
 - 📡 **[SCIM Radar](https://scimradar.clidsys.com)** - SCIM monitoring dashboard to visualize provisioning operations and analyze performance
 
 ### Open Source & PowerShell
-- ⚡ **[PS365](https://ps365.dev)** - Open source PowerShell module for Microsoft 365 administration
+
+I am consolidating my scripts into proper PowerShell modules, rather than leaving them scattered as standalone files. Each function gets reviewed, documented and named consistently on the way in.
+
+- ⚡ **[PS365](https://ps365.dev)** - Open source PowerShell module for Microsoft 365 administration. Start here if you have not seen it yet
+- 🗂️ **[PSADDS](https://github.com/bastienperez/PSADDS)** - Same idea for Active Directory Domain Services: users, groups, computers, schema and delegation
 - 🛡️ **[RBAC Exchange Manager](https://github.com/bastienperez/exchange-rbac-manager)** - PowerShell GUI to explore Exchange Online RBAC with a hub-and-spoke visualizer
 
 ### Browser Extensions
