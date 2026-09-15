@@ -12,6 +12,19 @@
 
 > 💡 **My Philosophy**: Technology should serve us, not the other way around. I automate complex tasks and unlock the potential of systems, going beyond just the Microsoft ecosystem to create truly efficient solutions.
 
+## ⚡ 365Boost
+
+<p align="center">
+  <a href="https://365boost.io"><img src="https://365boost.io/assets/images/365boost48.png" width="48" height="48" alt="365Boost"/></a>
+</p>
+
+**[365Boost](https://365boost.io)** is my browser extension for the Microsoft Entra, Intune and Microsoft 365 admin centers. **See more. Click less.**
+
+- The portals, with the missing context added: privacy mode for screen shares, tenant colours, Conditional Access highlights, quick-view popups, bulk actions, ID converters. Free.
+- **365Boost Pro**: Object Explorer (every relationship around a user, group or app in one view) and 20+ tenant-wide reports, read-only, from your own session. Nothing installed in the tenant, nothing leaves the browser.
+
+Chrome, Edge and Firefox. Details and launch notification at **[365boost.io](https://365boost.io)**.
+
 
 ## 🚀 About Me
 
@@ -42,7 +55,7 @@ As a freelance consultant, I offer specialized services in:
 A selection of tools, extensions and platforms I build and maintain:
 
 ### SaaS & Web Apps
-- 🚀 **[EntraBoost](https://entraboost.com)** - Browser extension for the Microsoft Entra portal with advanced productivity features
+- ⚡ **[365Boost](https://365boost.io)** - Browser extension for the Entra, Intune and Microsoft 365 admin centers (see above)
 - 🔐 **[SAML Cert Eye](https://samlcert.clidsys.com)** - Extract and analyze X.509 certificates from SAML metadata (Base64 or binary download)
 - 📡 **[SCIM Radar](https://scimradar.clidsys.com)** - SCIM monitoring dashboard to visualize provisioning operations and analyze performance
 
