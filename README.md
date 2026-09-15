@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bastienperez&show_icons=true&theme=transparent" alt="Bastien's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastienperez&theme=transparent" alt="Bastien's streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=bastienperez&theme=transparent" alt="Bastien's streak stats"/>
 </p>
 
 ## 💼 Professional Services
