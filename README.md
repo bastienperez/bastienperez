@@ -65,7 +65,7 @@ I am consolidating my scripts into proper PowerShell modules, rather than leavin
 
 - ⚡ **[PS365](https://ps365.dev)** - Open source PowerShell module for Microsoft 365 administration. Start here if you have not seen it yet
 - 🗂️ **[PSADDS](https://github.com/bastienperez/PSADDS)** - Same idea for Active Directory Domain Services: users, groups, computers, schema and delegation
-- 🛡️ **[RBAC Exchange Manager](https://github.com/bastienperez/exchange-rbac-manager)** - PowerShell GUI to explore Exchange Online RBAC with a hub-and-spoke visualizer
+- 🛡️ **[Exchange RBAC Manager](https://github.com/bastienperez/exchange-rbac-manager)** - PowerShell GUI to explore Exchange Online RBAC with a hub-and-spoke visualizer
 
 ### Browser Extensions
 - 🧩 **[VS Code Insiders Button](https://chromewebstore.google.com/detail/vs-code-insiders-button-o/godpeobaefkgjlmchpechdgpbnhaieel)** - Adds an Insiders button to the VS Code Marketplace
